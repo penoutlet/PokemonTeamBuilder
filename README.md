@@ -1,3 +1,6 @@
+# Pokemon Team Builder
+This is a web app i will be developing for creating and exporting competitive pokemon teams. May also implement damage calculation if i feel like it. It will be written in clojurescript and the reagent framework.
+
 
 ### Development mode
 To start the Figwheel compiler, navigate to the project folder and run the following command in the terminal:
